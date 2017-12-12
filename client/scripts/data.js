@@ -32,7 +32,7 @@ var movieData = [
   {
     title: 'Edge of Tomorrow',
     year: 2014,
-    rating: 4
+    rating: 8
   },
   {
     title: 'Hot Tub Time Machine',
